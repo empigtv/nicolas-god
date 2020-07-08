@@ -1,1 +1,86 @@
-# nicolas-god
+<!DOCTYPE html>
+
+<html>
+<meta charset="UTF-8">
+
+<head>
+<script type="text/javascript" src="index.js></script>
+</head>
+<body>
+
+<body>
+
+<script type="text/javascript">
+
+var nombredeleves = 25;
+var nombredeformateurz = 50;
+var nombredesites = 3;
+var prixdeformation = 9000;
+var nombredeclasse = 20;
+console.log(typeof(nombredeleves))
+var prixpc = 1499.95;
+var prixecran = 195.90;
+var prixclavier = 39.95;
+var prixsouris = 29.95;
+var priximprimante = 249.80;
+console.log(typeof(prixpc))
+var bienvenue = "Bienvenue chez Audi"
+var monnom = "BELAIR"
+var monprenom = "Mathieu"
+var marque = "Audi"
+var modele = "Q3"
+var couleur = "gris nardo"
+var motorisation = "essence"
+var denomination = "RSQ3"
+console.log(typeof(bienvenue))
+
+</script>
+
+</html>
+
+for(var a=50; a<=65; ++) {
+	console.log(a);
+}
+
+var n=50;
+while(n<66) {
+	//console.log (n);
+	n++;
+}
+
+var N=150,
+for(var a=1; a<N;a++) {
+	if(a % 7 === 0 || a % 3 === 0) {
+	//console.log(a);
+	}
+}
+
+for(var b=1; b<=N; b++){
+	if(b % 5 === 0 && b % 7 === 0) {
+	//console.log(b);
+	}
+}
+
+var c=1;
+while(c<151){
+	if(c % 5 === 0 && c % 7 === 0){
+	//console.log(c);
+	}
+}
+
+var d=0;
+for(var z=10; z<=20; z++){
+	d=d+z;
+}
+//console.log("Voici le resultat : " + d);
+
+for(var x=1; x<=10; x++){
+	console.log("Test OK !")
+	console.log("Hello world !");
+	}
+	else { console.log("Test is NOK !)
+	}
+}
+<script>
+
+</html>
